@@ -1,11 +1,4 @@
----
-layout: page
-title: "HADDOCK small molecule binding site screening"
-excerpt: "A small tutorial on identifying putative binding site for small ligands using HADDOCK"
-tags: [HADDOCK, CASP, CAPRI, docking, symmetry, dimer, tetramer]
-image:
-  feature: pages/banner_education-thin.jpg
----
+## The online version of this tutorial can be found at: [http://bonvinlab.org/education/HADDOCK-binding-sites](http://bonvinlab.org/education/HADDOCK-binding-sites)
 
 ## Introduction
 
@@ -91,7 +84,7 @@ Download then the data to run this tutorial from our GitHub
 data repository [here][link-data] or clone it from the command line:
 
 <a class="prompt prompt-cmd">
-    git clone https://github.com/haddocking/HADDOCK-binding-sites
+    git clone https://github.com/haddocking/HADDOCK-binding-sites-tutorial
 </a>
 
 Alternatively, if you do not have git installed, simply go the above web address and download the zip archive.
