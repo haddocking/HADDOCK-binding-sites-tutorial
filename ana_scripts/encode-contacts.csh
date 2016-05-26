@@ -7,7 +7,7 @@ foreach i (` awk '{print $2"."$1"."$3}' $1`)
   set b=`echo $i |sed -e 's/\./\ /g' |awk -v scale=$scale '{if ($2/scale < 1) {print 1.0} else {print $2/scale}}'`
   set r=`echo $i |sed -e 's/\./\ /g' |awk '{print $1}'`
   set ch=`echo $i |sed -e 's/\./\ /g' |awk '{print $3}'`
-  zone_b -$b -z$ch$r,$ch$r $2 >pdb.tmp
+  $WDIR/zone_b -$b -z$ch$r,$ch$r $2 >pdb.tmp
   \mv pdb.tmp $2
 end
 
