@@ -6,17 +6,17 @@ assign ( resid 2717  and segid A)
         ( resid 2002  and segid B)
        )  2.0 2.0 0.0
 
-assign ( resid 2715  and segid A)
-       (
-        ( resid 2002  and segid B)
-       )  2.0 2.0 0.0
-
 assign ( resid 2566  and segid A)
        (
         ( resid 2002  and segid B)
        )  2.0 2.0 0.0
 
-assign ( resid 2645  and segid A)
+assign ( resid 2715  and segid A)
+       (
+        ( resid 2002  and segid B)
+       )  2.0 2.0 0.0
+
+assign ( resid 2722  and segid A)
        (
         ( resid 2002  and segid B)
        )  2.0 2.0 0.0
@@ -26,27 +26,7 @@ assign ( resid 2676  and segid A)
         ( resid 2002  and segid B)
        )  2.0 2.0 0.0
 
-assign ( resid 2664  and segid A)
-       (
-        ( resid 2002  and segid B)
-       )  2.0 2.0 0.0
-
-assign ( resid 2662  and segid A)
-       (
-        ( resid 2002  and segid B)
-       )  2.0 2.0 0.0
-
-assign ( resid 2690  and segid A)
-       (
-        ( resid 2002  and segid B)
-       )  2.0 2.0 0.0
-
 assign ( resid 2562  and segid A)
-       (
-        ( resid 2002  and segid B)
-       )  2.0 2.0 0.0
-
-assign ( resid 2689  and segid A)
        (
         ( resid 2002  and segid B)
        )  2.0 2.0 0.0
@@ -61,32 +41,12 @@ assign ( resid 2678  and segid A)
         ( resid 2002  and segid B)
        )  2.0 2.0 0.0
 
+assign ( resid 2645  and segid A)
+       (
+        ( resid 2002  and segid B)
+       )  2.0 2.0 0.0
+
 assign ( resid 2561  and segid A)
-       (
-        ( resid 2002  and segid B)
-       )  2.0 2.0 0.0
-
-assign ( resid 2722  and segid A)
-       (
-        ( resid 2002  and segid B)
-       )  2.0 2.0 0.0
-
-assign ( resid 2666  and segid A)
-       (
-        ( resid 2002  and segid B)
-       )  2.0 2.0 0.0
-
-assign ( resid 2694  and segid A)
-       (
-        ( resid 2002  and segid B)
-       )  2.0 2.0 0.0
-
-assign ( resid 2718  and segid A)
-       (
-        ( resid 2002  and segid B)
-       )  2.0 2.0 0.0
-
-assign ( resid 2674  and segid A)
        (
         ( resid 2002  and segid B)
        )  2.0 2.0 0.0
@@ -96,7 +56,17 @@ assign ( resid 2580  and segid A)
         ( resid 2002  and segid B)
        )  2.0 2.0 0.0
 
-assign ( resid 2649  and segid A)
+assign ( resid 2690  and segid A)
+       (
+        ( resid 2002  and segid B)
+       )  2.0 2.0 0.0
+
+assign ( resid 2694  and segid A)
+       (
+        ( resid 2002  and segid B)
+       )  2.0 2.0 0.0
+
+assign ( resid 2662  and segid A)
        (
         ( resid 2002  and segid B)
        )  2.0 2.0 0.0
@@ -106,12 +76,7 @@ assign ( resid 2579  and segid A)
         ( resid 2002  and segid B)
        )  2.0 2.0 0.0
 
-assign ( resid 2667  and segid A)
-       (
-        ( resid 2002  and segid B)
-       )  2.0 2.0 0.0
-
-assign ( resid 2577  and segid A)
+assign ( resid 2674  and segid A)
        (
         ( resid 2002  and segid B)
        )  2.0 2.0 0.0
@@ -121,12 +86,17 @@ assign ( resid 2675  and segid A)
         ( resid 2002  and segid B)
        )  2.0 2.0 0.0
 
-assign ( resid 2564  and segid A)
+assign ( resid 2689  and segid A)
        (
         ( resid 2002  and segid B)
        )  2.0 2.0 0.0
 
-assign ( resid 2716  and segid A)
+assign ( resid 2718  and segid A)
+       (
+        ( resid 2002  and segid B)
+       )  2.0 2.0 0.0
+
+assign ( resid 2664  and segid A)
        (
         ( resid 2002  and segid B)
        )  2.0 2.0 0.0
@@ -136,17 +106,57 @@ assign ( resid 2560  and segid A)
         ( resid 2002  and segid B)
        )  2.0 2.0 0.0
 
+assign ( resid 2667  and segid A)
+       (
+        ( resid 2002  and segid B)
+       )  2.0 2.0 0.0
+
+assign ( resid 2564  and segid A)
+       (
+        ( resid 2002  and segid B)
+       )  2.0 2.0 0.0
+
+assign ( resid 2693  and segid A)
+       (
+        ( resid 2002  and segid B)
+       )  2.0 2.0 0.0
+
+assign ( resid 2716  and segid A)
+       (
+        ( resid 2002  and segid B)
+       )  2.0 2.0 0.0
+
+assign ( resid 2700  and segid A)
+       (
+        ( resid 2002  and segid B)
+       )  2.0 2.0 0.0
+
+assign ( resid 2666  and segid A)
+       (
+        ( resid 2002  and segid B)
+       )  2.0 2.0 0.0
+
+assign ( resid 2563  and segid A)
+       (
+        ( resid 2002  and segid B)
+       )  2.0 2.0 0.0
+
 assign ( resid 2565  and segid A)
        (
         ( resid 2002  and segid B)
        )  2.0 2.0 0.0
 
-assign ( resid 2721  and segid A)
+assign ( resid 2554  and segid A)
        (
         ( resid 2002  and segid B)
        )  2.0 2.0 0.0
 
-assign ( resid 2720  and segid A)
+assign ( resid 2577  and segid A)
+       (
+        ( resid 2002  and segid B)
+       )  2.0 2.0 0.0
+
+assign ( resid 2601  and segid A)
        (
         ( resid 2002  and segid B)
        )  2.0 2.0 0.0
@@ -158,63 +168,67 @@ assign ( resid 2002  and segid B)
        (
         ( resid 2717  and segid A)
      or
-        ( resid 2715  and segid A)
-     or
         ( resid 2566  and segid A)
      or
-        ( resid 2645  and segid A)
+        ( resid 2715  and segid A)
+     or
+        ( resid 2722  and segid A)
      or
         ( resid 2676  and segid A)
      or
-        ( resid 2664  and segid A)
-     or
-        ( resid 2662  and segid A)
-     or
-        ( resid 2690  and segid A)
-     or
         ( resid 2562  and segid A)
-     or
-        ( resid 2689  and segid A)
      or
         ( resid 2677  and segid A)
      or
         ( resid 2678  and segid A)
      or
+        ( resid 2645  and segid A)
+     or
         ( resid 2561  and segid A)
-     or
-        ( resid 2722  and segid A)
-     or
-        ( resid 2666  and segid A)
-     or
-        ( resid 2694  and segid A)
-     or
-        ( resid 2718  and segid A)
-     or
-        ( resid 2674  and segid A)
      or
         ( resid 2580  and segid A)
      or
-        ( resid 2649  and segid A)
+        ( resid 2690  and segid A)
+     or
+        ( resid 2694  and segid A)
+     or
+        ( resid 2662  and segid A)
      or
         ( resid 2579  and segid A)
      or
-        ( resid 2667  and segid A)
-     or
-        ( resid 2577  and segid A)
+        ( resid 2674  and segid A)
      or
         ( resid 2675  and segid A)
      or
-        ( resid 2564  and segid A)
+        ( resid 2689  and segid A)
      or
-        ( resid 2716  and segid A)
+        ( resid 2718  and segid A)
+     or
+        ( resid 2664  and segid A)
      or
         ( resid 2560  and segid A)
      or
+        ( resid 2667  and segid A)
+     or
+        ( resid 2564  and segid A)
+     or
+        ( resid 2693  and segid A)
+     or
+        ( resid 2716  and segid A)
+     or
+        ( resid 2700  and segid A)
+     or
+        ( resid 2666  and segid A)
+     or
+        ( resid 2563  and segid A)
+     or
         ( resid 2565  and segid A)
      or
-        ( resid 2721  and segid A)
+        ( resid 2554  and segid A)
      or
-        ( resid 2720  and segid A)
+        ( resid 2577  and segid A)
+     or
+        ( resid 2601  and segid A)
        )  2.0 2.0 0.0
 
 

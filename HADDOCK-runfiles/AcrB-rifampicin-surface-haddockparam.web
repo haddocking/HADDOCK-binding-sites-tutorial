@@ -187,14 +187,14 @@ HaddockRunParameters (
     cool3 = 1.0,
   ),
   w_vdw = FloatArray (
-    0.01,
+    1.0,
     1.0,
     1.0,
   ),
   w_elec = FloatArray (
     1.0,
     1.0,
-    0.2,
+    0.1,
   ),
   w_dist = FloatArray (
     0.01,
